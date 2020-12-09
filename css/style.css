@@ -1,0 +1,17 @@
+.container img{
+    border-radius: 13px;
+}
+.nav-item i{
+    margin: 5px;
+}
+.nav-item :hover{
+background-color: #fff;
+border-radius: 10px;
+
+}
+.row2{
+    background-color:aqua;
+}
+.row21{
+    background-color:rgb(113, 121, 158);
+}
